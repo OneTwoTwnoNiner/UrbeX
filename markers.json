@@ -1,10 +1,12 @@
 [
   {
-    "lng": 21.074215, //Opuszczone Centrum Konferencyjne
+    "lng": 21.074215,
     "lat": 52.090224,
+    "id": "Centrum konferencyjne"
   },
   {
-    "lng": 21.13839, //Stara fabryka pepieru
+    "lng": 21.13839,
     "lat": 52.097156,
+    "id": "Stara papiernia"
   }
 ]
